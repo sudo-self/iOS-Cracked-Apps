@@ -1,5 +1,5 @@
 # iOS-Cracked-Apps
-## iPAs Ready to be installed, test and working on 15.7
+## Premium iPAs working on 15.7
 
 ### AirTroller-1.1.1_TS.ipa
 ### AppCake7_TS.ipa
